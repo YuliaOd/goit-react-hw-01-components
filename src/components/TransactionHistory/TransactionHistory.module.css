@@ -1,0 +1,23 @@
+.transaction__history {
+    padding: 0 10px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    box-shadow: var(--box-shadow);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+}
+
+.contents__row {
+    text-align: center;
+}
+
+.contents {
+    padding: 10px 10px;
+    border: 1px solid var(--secondary-text-color);
+}
+
+.contents__header {
+    background-color: var(--content-color-header);
+}
